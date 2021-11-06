@@ -1,6 +1,9 @@
-# ElectricVehicles: a collection of resources & software dedicated humanities transition to sustainable transport.
+# ElectricVehicles:
+A collection of resources & software dedicated humanities transition to sustainable transport.
 
- Guides and videos introducing drivers/buyers to electric vehicles
+Links to 3rd party websites and analysis provided by this repository is currently focused on EV's in the UK, but should still provide some useful information for folks in other countries.
+
+## Guides and videos introducing drivers/buyers to electric vehicles
 
 * [Beginers Guide To Going Electric](https://www.electrifying.com/files/NIgcMz_zbLHAaF79/department-for-transport-ev-guide.pdf)
 * Fully Charged Electric Moments series:
@@ -10,11 +13,20 @@
     * [Costs and savings of electric vehicle ownership](https://www.youtube.com/watch?v=ydMb85Ok040&list=PLU-GRnq4BD0old1mEjDlxS2uPiQb9GfGO&index=5)
     * [The natural next steps on your electric car journey](https://www.youtube.com/watch?v=PjY5CI1KE_0)
 
-!! Websites showing EVs available and costs of running of them
+## Websites showing EVs available and costs of running of them
 
-* [EV Toolkit](https://ev-toolkit.co.uk/)
-* [EV Database](https://ev-database.uk)
+* [EV Toolkit](https://ev-toolkit.co.uk/) - website for listing available EVs and how their running costs compare to ICE vehicles.
+* [EV Database](https://ev-database.uk) - website that allows to compare available EVs 
 
-!! Websites/tools that help you plan routes, and find on route public chargers
+## Websites/tools that help you plan routes and find public chargers
 
-* [Better Route Planner](https://abetterrouteplanner.com/)
+* [Better Route Planner](https://abetterrouteplanner.com/) - route planning website + app
+* [Zap Map](https://www.zap-map.com/) - available chargers
+
+## Environmental impact
+* [Carbon Intensity of UK Electricty Grid](https://carbonintensity.org.uk/)
+* [UK grid CO2 intensity since 2012](http://www.mygridgb.co.uk/historicaldata/)
+
+## Analysis of vehicles sales
+* S-Curve fitting to SSMT sales data](https://docs.google.com/spreadsheets/d/1-0c0NQdd38YeQYrrQSJt1-lp42duh3jkOFL-1k_BWm4/edit?usp=sharing
+
