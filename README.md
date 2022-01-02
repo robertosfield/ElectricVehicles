@@ -23,6 +23,9 @@ Links to 3rd party websites and analysis provided by this repository is currentl
 * [Better Route Planner](https://abetterrouteplanner.com/) - route planning website + app
 * [Zap Map](https://www.zap-map.com/) - available chargers
 
+## Experience with Living with an elecectric vehichle
+* [2013 Study into Range Anxiety finds 77 miles is enough for study partipants](https://insideevs.com/news/319315/german-psychologist-says-range-anxiety-becomes-less-real-after-3-months-of-driving-electric/)
+
 ## Environmental impact
 * [Carbon Intensity of UK Electricty Grid](https://carbonintensity.org.uk/)
 * [UK grid CO2 intensity since 2012](http://www.mygridgb.co.uk/historicaldata/)
